@@ -8,5 +8,5 @@ custom/asides/gamercard.html
 #... under 3rd party settings
 
 # Gamercard
-gamercard_name: *YOUR_GAMERTAG*
-gamercard_theme: # Choose one: arancia, fullnxe, newnxe, oldxbox, tempo
+xbox_gamertag: YOUR_GAMERTAG
+gamercard_theme: oldxbox 	# Choose one: arancia, fullnxe, newnxe, oldxbox, tempo
