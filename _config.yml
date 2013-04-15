@@ -1,0 +1,12 @@
+#... default_asides:
+
+# Add this to the array of default_asides:
+custom/asides/gamercard.html
+
+
+
+#... under 3rd party settings
+
+# Gamercard
+gamercard_name: *YOUR_GAMERTAG*
+gamercard_theme: # Choose one: arancia, fullnxe, newnxe, oldxbox, tempo
